@@ -132,4 +132,3 @@ par(mfrow = c(2, 1))
 plot(averageStepsByIntervalWeekday, type="l", xlab="interval [5 Min]", ylab="Number of steps", main="Weekday")
 plot(averageStepsByIntervalWeekend, type="l", xlab="interval [5 Min]", ylab="Number of steps", main="Weekend")
 ```
-
